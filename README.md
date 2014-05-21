@@ -1,5 +1,7 @@
 # Sinderella Clone
 
+[![Build Status](https://travis-ci.org/mariusbutuc/sinderella_clone.svg?branch=master)](https://travis-ci.org/mariusbutuc/sinderella_clone)
+
 _Kata_-like exercise building a Ruby gem with Bundler, TDD, Travis CI &amp; Coveralls.  
 
 Follows the [steps][tutorial] that gave birth to [Sinderella][sinderella].
