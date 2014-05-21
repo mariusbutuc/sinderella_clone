@@ -39,5 +39,5 @@ Make sure to check [the original Sinderella][sinderella-usage].
   [sinderella-usage]: https://github.com/Integralist/Sinderella#usage
   [travis-badge]:     https://travis-ci.org/mariusbutuc/sinderella_clone.svg?branch=master
   [travis-url]:       https://travis-ci.org/mariusbutuc/sinderella_clone
-  [coveralls-badge]:  https://coveralls.io/repos/mariusbutuc/sinderella_clone/badge.png
+  [coveralls-badge]:  https://coveralls.io/repos/mariusbutuc/sinderella_clone/badge.png?branch=master
   [coveralls-url]:    https://coveralls.io/r/mariusbutuc/sinderella_clone
