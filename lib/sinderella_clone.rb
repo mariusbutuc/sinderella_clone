@@ -1,4 +1,4 @@
-require "sinderella_clone/version"
+require 'sinderella_clone/version'
 
 module SinderellaClone
   # Your code goes here...
