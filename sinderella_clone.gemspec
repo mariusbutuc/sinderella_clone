@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = SinderellaClone::VERSION
   spec.authors       = ['Marius Butuc']
   spec.email         = ['marius@influitive.com']
-  spec.summary       = %q{Practice building a gem}
+  spec.summary       = %q(Practice building a gem)
   spec.description   = <<-DESC.strip
     Kata-like practice building a gem with Bundler, TDD, Travis CI & Coveralls.
   DESC
@@ -24,8 +24,10 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rspec'
   spec.add_development_dependency 'rspec-nc'
+  spec.add_development_dependency 'rubocop'
   spec.add_development_dependency 'guard'
   spec.add_development_dependency 'guard-rspec'
+  spec.add_development_dependency 'guard-rubocop'
   spec.add_development_dependency 'pry'
   spec.add_development_dependency 'pry-remote'
   spec.add_development_dependency 'pry-nav'
