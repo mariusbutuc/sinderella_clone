@@ -1,6 +1,7 @@
 # Sinderella Clone
 
 [![Build Status][travis-badge]][travis-url]
+[![Gem Version][version-badge]][version-url]
 [![Coverage Status][coveralls-badge]][coveralls-url]
 
 _Kata_-like exercise building a Ruby gem with Bundler, TDD, Travis CI &amp; Coveralls.  
@@ -41,3 +42,5 @@ Make sure to check [the original Sinderella][sinderella-usage].
   [travis-url]:       https://travis-ci.org/mariusbutuc/sinderella_clone
   [coveralls-badge]:  https://coveralls.io/repos/mariusbutuc/sinderella_clone/badge.png?branch=master
   [coveralls-url]:    https://coveralls.io/r/mariusbutuc/sinderella_clone
+  [version-badge]:    https://badge.fury.io/rb/sinderella_clone.svg
+  [version-url]:      http://badge.fury.io/rb/sinderella_clone
